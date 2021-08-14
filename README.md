@@ -1,9 +1,9 @@
 # Note_Taker
 
 ## Link to deployed Site (Heroku)
-```md
-https://git.heroku.com/murmuring-badlands-27747.git
-```
+
+-- https://git.heroku.com/murmuring-badlands-27747.git --
+
 
 ## Description
 ```md
