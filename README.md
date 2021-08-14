@@ -1,10 +1,15 @@
 # Note_Taker
 
+## Link to deployed Site (Heroku)
+```md
+[Note Taker](https://git.heroku.com/murmuring-badlands-27747.git)
+```
+
 ## Description
 ```md
 This noter taker allows the user to save notes and delete them.
 ```
-https://git.heroku.com/murmuring-badlands-27747.git
+
 ## User Story 
 
 ```md
