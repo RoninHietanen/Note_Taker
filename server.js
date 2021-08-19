@@ -37,6 +37,6 @@ app.post('/api/notes', (req, res) => {
   res.json(oldN)
 });
 
-app.listen(PORT, () =>
+app.listen(process.env.PORT || 3001, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );
