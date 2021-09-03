@@ -2,7 +2,7 @@
 
 ## Link to deployed Site (Heroku)
 
--- https://git.heroku.com/murmuring-badlands-27747.git --
+-- https://git.heroku.com/murmuring-badlands-27747.com --
 
 
 ## Description
